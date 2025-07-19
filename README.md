@@ -70,8 +70,8 @@ To set up and run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/job-category-prediction.git
-cd job-category-prediction
+git clone ]https://github.com/asra020601/Job-Category-Prediction-System/blob/main/main2.ipynb
+cd Job-Category-Prediction-System/blob/main/main2.ipynb
 
 Create a virtual environment (recommended):
 
