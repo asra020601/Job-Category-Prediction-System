@@ -1,29 +1,6 @@
 # Job-Category-Prediction-System
 This repository contains the code and documentation for a job category prediction system. This system takes a resume as input and identifies the most relevant job categories and descriptions, leveraging natural language processing (NLP) techniques.
 
-Table of Contents
-Introduction
-
-How It Works
-
-1. Data Preparation
-
-2. Job Category Generation
-
-3. Skill Recognition and Categorization
-
-4. Top Job Role Prediction
-
-Setup and Installation
-
-Usage
-
-Testing and Validation
-
-Contributing
-
-License
-
 Introduction
 The Job Category Prediction System aims to streamline the process of matching resumes to appropriate job categories. Instead of predicting specific job roles, which can be highly granular, this system focuses on broader job categories, providing a more generalized and adaptable solution for resume analysis and job recommendations.
 
@@ -126,4 +103,4 @@ for category, description in top_matches:
 Testing and Validation
 The system includes a testing phase where sample inputs are used to validate the accuracy and relevance of the predicted job categories and descriptions. The output demonstrates the system's ability to provide meaningful recommendations based on the input resume.
 
-Contributing
+
